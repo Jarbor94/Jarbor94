@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning CSS
 - 👯 I’m looking to collaborate on web projects
 - 🤔 I’m looking for help with JavaScript
-- 💬 Ask me about html
+- 💬 Ask me about HTML.
 
 
 <!--
